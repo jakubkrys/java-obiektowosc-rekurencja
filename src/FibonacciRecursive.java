@@ -10,8 +10,8 @@ public class FibonacciRecursive {
 
         Math2 math2 = new Math2(n);
 
+
         math2.fibonacci(n);
-        math2.add();
         math2.displayAll();
     }
 }

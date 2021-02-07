@@ -6,4 +6,5 @@ public class Math {
         }
         return n * factorial(n-1);
     }
+
 }
